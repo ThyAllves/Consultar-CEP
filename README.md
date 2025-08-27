@@ -29,7 +29,7 @@ JavaScript (ES6+)
 
 Clone este repositório:
 
-git clone git@github.com:ThiagoAlvesTRF1/nomedorepo.git
+git clone git@github.com:ThyAllves/nomedorepo.git
 
 
 Abra o arquivo index.html no navegador.
